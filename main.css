@@ -1,0 +1,17 @@
+body {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 200%;
+	color: #4A4A57;
+}
+
+div {
+	position: relative;
+	top: 35%;
+	height: 65%;
+	width: 512px;
+	margin: 0 auto;
+}
+
+span {
+	color: #7F318F;
+}
